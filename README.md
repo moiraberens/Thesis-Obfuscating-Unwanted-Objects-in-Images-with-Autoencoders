@@ -1,4 +1,4 @@
-# Code for Thesis "Obfuscating Unwanted Objects in Images with Autoencoders"
+# Code used in the thesis "Obfuscating Unwanted Objects in Images with Autoencoders"
 In this repository, you can find the code I have created to run the experiments described in my thesis.
 
 #### Naming
