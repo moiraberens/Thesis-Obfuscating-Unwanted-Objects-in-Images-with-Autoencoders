@@ -17,5 +17,5 @@ If this setting is set equal to "true", this means an extra convolutional layer 
 If this setting is set to "false", this means that no extra layer is added to the autoencoder.
 
 #### Data
-In my thesis, I used both images from the ImageNet dataset (category horse and airplane) and from the CIFAR10 dataset. This code downloads the CIFAR10 images. The ImageNet images should be downloaded before the code can be run. 
+In my thesis, I used both images from the ImageNet dataset (category horse and airplane) and from the CIFAR10 dataset. This code downloads the CIFAR10 images. The ImageNet images should be downloaded before the code can be run. To get the ImageNet images, permission have to be asked. It is only available for researchers and educators who wish to use the images for non-commercial research and/or educational purposes.
 
