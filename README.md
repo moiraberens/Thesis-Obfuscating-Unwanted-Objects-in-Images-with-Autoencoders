@@ -11,7 +11,7 @@ In my thesis, I changed some names for clarity purpose in the code these names a
  - unet = autoencoder with skip-connection
 
 Additionally, there is a settings "extra block" in my code. 
-If this setting is set equal to "skip", this means an residual block.
-If this setting is set equal to "true", this means an extra convolutional layer.
+If this setting is set equal to "skip", this means a residual block is added after every layer of the autoencoder.
+If this setting is set equal to "true", this means an extra convolutional layer is added after every layer of the autoencoder.
 If this setting is set to "false", this means that no extra layer is added to the autoencoder.
 
